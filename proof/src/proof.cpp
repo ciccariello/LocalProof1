@@ -13,6 +13,6 @@ int main() {
 	std::cout << "Hello World" << std::endl;
 	std::cout << "Version " << primo_VERSION_MAJOR << "." << primo_VERSION_MINOR << std::endl;
 	std::cout << "Hello World" << std::endl;
-	std::cout << "Version " << primo_VERSION_MAJOR << "1" << primo_VERSION_MINOR << std::endl;
+	std::cout << "Version " << primo_VERSION_MAJOR << "8" << primo_VERSION_MINOR << std::endl;
 	return 0;
 }
